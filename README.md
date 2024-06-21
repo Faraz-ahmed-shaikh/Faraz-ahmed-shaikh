@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Projects and Open sources
 - 📫 How to reach me ... Insta handel : @bettercallfaraz
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I am very Intrested in Programming
 
 <!---
 Faraz-ahmed-shaikh/Faraz-ahmed-shaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
