@@ -5,7 +5,7 @@
 - 📫 How to reach me ... Insta handel : @bettercallfaraz
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I am very Intrested in Programming
-- Currently i have learend Html, Css and now i am learning Java Script
+- Currently i have learend Html, Css and now i am learning Java Script and git, github
 <!---
 Faraz-ahmed-shaikh/Faraz-ahmed-shaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
