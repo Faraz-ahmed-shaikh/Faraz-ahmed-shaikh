@@ -4,12 +4,6 @@
 👩‍💻 Python and Data Science 📊 </br>
 🌐 Front-end Developer - React.js </br>
 👨‍🔧 I build sleek websites and solutions that actually works 😉
-# 💫 About Me:
-👨‍🎓 BSc I.T student at Slrtdc<br>👩‍💻 Python and Data Science 📊<br>🌐 FrontEnd Developer - React.js<br>👨‍🔧 I build sleek websites and solutions that actually works 😉
-
-# 💫 About Me:
-👨‍🎓 BSc I.T student at Slrtdc<br>👩‍💻 Python and Data Science 📊<br>🌐 FrontEnd Developer - React.js<br>👨‍🔧 I build sleek websites and solutions that actually works 😉
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bettercallfaraz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FarazAhmedShaikh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/farazthedev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikhfaraz0401@gmail.com) 
