@@ -10,9 +10,9 @@
 
 ## 🚀 Featured Projects
 
-🔹 Credit Risk Intelligence — Early Warning Signals for Loan Defaults
-
 🔹 NovaBank Banking Transaction Analysis — Retention & Behavioral Analytics
+
+🔹 Credit Risk Intelligence — Early Warning Signals for Loan Defaults
 
 🔹 Wholesale Sales Analytics — Business Intelligence on 1M+ Records
 
@@ -31,7 +31,7 @@
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faraz--shaikh-blue?logo=linkedin)](https://www.linkedin.com/in/faraz-ahmed-shaikh-105a7a308/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faraz--Ahmed--Shaikh-blue?logo=linkedin)](https://www.linkedin.com/in/faraz-ahmed-shaikh-105a7a308/)
 
 ## 🤝 Open To
 
