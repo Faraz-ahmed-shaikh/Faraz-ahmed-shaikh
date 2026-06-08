@@ -11,20 +11,23 @@
 ## 🚀 Featured Projects
 
 🔹 Credit Risk Intelligence — Early Warning Signals for Loan Defaults
+
 🔹 NovaBank Banking Transaction Analysis — Retention & Behavioral Analytics
+
 🔹 Wholesale Sales Analytics — Business Intelligence on 1M+ Records
+
 🔹 PayFlow Fintech ELT Lakehouse Pipeline
 
 ## 💻 Tech Stack
 
 **Analytics & BI**
-Python • SQL • Tableau • Excel • Pandas • NumPy • Matplotlib
+`Python` • `SQL` • `Tableau` • `Excel` • `Pandas` • `NumPy` • `Matplotlib`
 
 **Data Engineering**
-PySpark • Apache Spark • Databricks • Delta Lake • ELT Pipelines
+`PySpark` • `Apache Spark` • `Databricks` • `Delta Lake` • `ELT Pipelines`
 
 **Databases**
-PostgreSQL • MySQL
+`PostgreSQL` • `MySQL`
 
 ## 🤝 Open To
 
